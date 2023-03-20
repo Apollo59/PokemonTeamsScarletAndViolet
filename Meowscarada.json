@@ -1,0 +1,17 @@
+{
+	"Meowscarada": {
+		"attack1": "Flower Trick",
+		"attack2": "Night Slash",
+		"attack3": "Hone Claws",
+		"attack4": "Grassy Terrain",
+		"hp_ev": 252,
+		"atk_ev": 252,
+		"def_ev": 0,
+		"spa_ev": 0,
+		"spd": 0,
+		"spe": 4,
+		"item": "Miracle Seed",
+		"tera_type": "grass",
+		"nature": "Adamant"
+	}
+}
