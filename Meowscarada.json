@@ -12,6 +12,7 @@
 		"spe": 4,
 		"item": "Miracle Seed",
 		"tera_type": "grass",
+		"ability": "Protean",
 		"nature": "Adamant"
 	}
 }
