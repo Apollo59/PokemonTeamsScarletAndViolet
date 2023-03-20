@@ -1,9 +1,9 @@
 {
 	"Amoonguss": {
 		"attack1": "Substitute",
-		"attack2": "Sludge Bomb
-		"attack3": "Spore
-		"attack4": "Rage Powder
+		"attack2": "Sludge Bomb",
+		"attack3": "Spore",
+		"attack4": "Rage Powder",
 		"hp_ev": 252,
 		"atk_ev": 0
 		"def_ev": 252,
