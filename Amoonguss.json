@@ -1,0 +1,18 @@
+{
+	"Amoonguss": {
+		"attack1": "Substitute",
+		"attack2": "Sludge Bomb
+		"attack3": "Spore
+		"attack4": "Rage Powder
+		"hp_ev": 252,
+		"atk_ev": 0
+		"def_ev": 252,
+		"spa_ev": 4,
+		"spd": 0,
+		"spe": 252,
+		"item": "Bright Powder",
+		"tera_type": "Steel",
+    "ability": "Effect Spore",
+		"nature": "Bold"
+	}
+}
