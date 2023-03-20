@@ -12,7 +12,7 @@
 		"spe": 252,
 		"item": "Leftovers",
 		"tera_type": "fire",
-    "ability": "Flash Fire",
+    		"ability": "Flash Fire",
 		"nature": "Jolly"
 	}
 }
