@@ -1,0 +1,18 @@
+{
+	"IronHands": {
+		"attack1": "Close Combat",
+		"attack2": "Thunder Punch",
+		"attack3": "Play Rough",
+		"attack4": "Iron Head",
+		"hp_ev": 0,
+		"atk_ev": 252,
+		"def_ev": 252,
+		"spa_ev": 0,
+		"spd": 0,
+		"spe": 4,
+		"item": "Booster Energy",
+		"tera_type": "steel",
+    		"ability": "Quark Drive",
+		"nature": "Adamant"
+	}
+}
